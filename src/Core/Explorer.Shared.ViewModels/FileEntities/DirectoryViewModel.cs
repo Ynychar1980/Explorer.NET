@@ -1,6 +1,4 @@
-﻿using Explorer.Shared.ViewModels.FileEntities.Base;
-
-namespace Explorer.Shared.ViewModels.FileEntities
+﻿namespace Explorer.Shared.ViewModels
 {
     public sealed class DirectoryViewModel : FileEntityViewModel
     {
