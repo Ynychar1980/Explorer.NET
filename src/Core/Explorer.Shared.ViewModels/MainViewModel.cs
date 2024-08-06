@@ -1,5 +1,8 @@
 ﻿using System.Collections.ObjectModel;
 using System.Windows.Input;
+using Explorer.Shared.ViewModels;
+using Explorer.Shared.ViewModels.FileEntities;
+using Explorer.Shared.ViewModels.FileEntities.Base;
 
 namespace Explorer.Shared.ViewModels
 {
